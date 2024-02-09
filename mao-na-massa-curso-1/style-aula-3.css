@@ -1,12 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
-    background-color: #FF5733;
-    color: #00FF00;
+    background-color: #03191E;
+    color: #941C2F;
+}
+
+.titulo-blog {
+    color: #531CB3;
 }
 
 h2 {
-    color: #F2D852;
+    color: #52FFB8;
 }
 
 p {
-    color: #F2EB52;
+    color: #B7B6C2;
+    margin: 10px;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+.texto-destaque {
+    color: #688B58;
+}
+
+.urgente {
+    color: red;
 }
