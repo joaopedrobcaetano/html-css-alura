@@ -1,12 +1,12 @@
 body {
-    background-color: indigo;
-    color: white;
+    background-color: #FF5733;
+    color: #00FF00;
 }
 
 h2 {
-    color: salmon;
+    color: #F2D852;
 }
 
 p {
-    color: darkseagreen;
+    color: #F2EB52;
 }
