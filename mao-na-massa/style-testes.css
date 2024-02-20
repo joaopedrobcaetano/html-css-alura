@@ -69,6 +69,9 @@ p {
 
 .apresentacao__links__link {
     /* background-color: #52FFB8; */
+    display: flex;
+    justify-content: center;
+    gap: 16px;
     border: 2px solid #52FFB8;
     text-decoration: none;
     font-size: 24px;
@@ -79,4 +82,10 @@ p {
     color: #B7B6C2;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
+}
+
+.apresentacao__links__link:hover {
+    border: 2px solid #0000FF;
+    background-color: #272727;
+    cursor: pointer;
 }
